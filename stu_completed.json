@@ -1,0 +1,41 @@
+[
+  {
+    "student_id": "JS00100200305",
+    "first_name": "Jack",
+    "last_name": "Sparrow",
+    "email": "js@blackpearl.com",
+    "mark": 21,
+    "is_complete": 1,
+    "course_code": "WD01",
+    "course_name": "Web Dev Fundamentals",
+    "course_description": "Provides a basis to Javascript and all fundamental tools.",
+    "teacher_id": "MZ004",
+    "course_level": 1
+  },
+  {
+    "student_id": "BC00100200326",
+    "first_name": "Benedict",
+    "last_name": "Cumberbatch",
+    "email": "benny@strange.com",
+    "mark": 24,
+    "is_complete": 1,
+    "course_code": "DB01",
+    "course_name": "Files",
+    "course_description": "Provides a basis of file inputs and outputs as well as data storage.",
+    "teacher_id": "SD007",
+    "course_level": 1
+  },
+  {
+    "student_id": "JS00100200305",
+    "first_name": "Jack",
+    "last_name": "Sparrow",
+    "email": "js@blackpearl.com",
+    "mark": 26,
+    "is_complete": 1,
+    "course_code": "WD02",
+    "course_name": "Web Dev Frameworks",
+    "course_description": "This course aims to provie an understanding of all important frameworks in developing web apps.",
+    "teacher_id": "ZM005",
+    "course_level": 2
+  }
+]

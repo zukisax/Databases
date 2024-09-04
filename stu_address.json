@@ -1,0 +1,14 @@
+[
+  {
+    "student_id": "KK00100200313",
+    "first_name": "Kamala",
+    "last_name": "Khan",
+    "email": "ms@marvel.com",
+    "address_id": 19,
+    "street": "Maple St",
+    "city": "Durban",
+    "province": "KZN",
+    "postal_code": "1020",
+    "country": "South Africa"
+  }
+]

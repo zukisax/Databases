@@ -1,0 +1,22 @@
+[
+  {
+    "student_id": "CD00100200314",
+    "course_code": "DS01",
+    "mark": 98,
+    "is_complete": 1,
+    "course_name": "Python for Data Science",
+    "course_description": "This course provides an introductory basis to learning Python.",
+    "teacher_id": "MP001",
+    "course_level": 1
+  },
+  {
+    "student_id": "CD00100200314",
+    "course_code": "WD02",
+    "mark": 66,
+    "is_complete": 1,
+    "course_name": "Web Dev Frameworks",
+    "course_description": "This course aims to provie an understanding of all important frameworks in developing web apps.",
+    "teacher_id": "ZM005",
+    "course_level": 2
+  }
+]
